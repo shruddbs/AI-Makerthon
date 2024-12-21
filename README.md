@@ -1,5 +1,5 @@
 # AI-Makerthon 팀 프로젝트 소개
-
+ 
 ![프로젝트 로고](https://via.placeholder.com/200)
 
 ## 목차
